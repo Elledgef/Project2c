@@ -8,5 +8,5 @@ change = change%10
 print("N:",change//5)
 change = change%5
 print("P:",change//1)
-change - change%1
+change = change%1
 
