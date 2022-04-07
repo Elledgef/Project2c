@@ -1,5 +1,4 @@
 change = int(input("Please enter an amount in cents less than a dollar."))
-print(change)
 print("Your change will be:")
 print("Q:", change//25)
 change = change%25
